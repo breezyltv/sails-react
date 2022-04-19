@@ -1,0 +1,15 @@
+node_modules
+config/local.js
+.git
+.github
+.gitignore
+.idea
+.editorconfig
+.eslintignore
+.eslintrc
+.tmp
+.travis.yml
+
+README.md
+CHANGELOG.md
+LICENSE
